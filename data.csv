@@ -1,3 +1,11 @@
-id,name
-1,Rishabh
-2,AryaXAI
+id,name,email,country,age
+1,Rishabh,rishabh@example.com,India,25
+2,AryaXAI,contact@aryaxai.com,USA,5
+3,John,john.doe@example.com,Canada,30
+4,Jane,jane.smith@example.com,UK,28
+5,Akash,akash@example.com,India,24
+6,Neha,neha@example.com,India,27
+7,David,david@example.com,USA,35
+8,Priya,priya@example.com,Nepal,29
+9,Amit,amit@example.com,India,22
+10,Sara,sara@example.com,Australia,31
